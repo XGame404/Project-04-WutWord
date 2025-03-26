@@ -7020,7 +7020,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   keyboard: {fileID: 1678252059}
   keyboardPriceText: {fileID: 882284400}
-  keyboardHintPrice: 0
+  keyboardHintPrice: 10
 --- !u!4 &839885372
 Transform:
   m_ObjectHideFlags: 0
